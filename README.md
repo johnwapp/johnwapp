@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @johnwapp
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning godot and blender
+- 💞️ I’m looking to collaborate on anything game related
+- 📫 How to reach me
